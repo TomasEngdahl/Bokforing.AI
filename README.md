@@ -30,12 +30,12 @@ Nedan finns några bilder som visar olika delar av systemet. Klicka på dem för
 
 <p align="center">
   <a href="images/manuall_journal_entry.png" target="_blank">
-    <img src="images/manuall_journal_entry.png" alt="Skärm 1" width="300" style="margin:5px;">
+    <img src="images/manuall_journal_entry.png" alt="Skärm 1" width="200" style="margin:5px;">
   </a>
   <a href="images/list_transaktions.png" target="_blank">
-    <img src="images/list_transaktions.png" alt="Skärm 1" width="300" style="margin:5px;">
+    <img src="images/list_transaktions.png" alt="Skärm 1" width="200" style="margin:5px;">
   </a>
   <a href="images/list_transaktions_with_detail.png" target="_blank">
-    <img src="images/list_transaktions_with_detail.png" alt="Skärm 1" width="300" style="margin:5px;">
+    <img src="images/list_transaktions_with_detail.png" alt="Skärm 1" width="200" style="margin:5px;">
   </a>
 </p>
