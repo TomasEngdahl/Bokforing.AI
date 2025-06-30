@@ -39,3 +39,17 @@ Nedan finns några bilder som visar olika delar av systemet. Klicka på dem för
     <img src="images/list_transaktions_with_detail.png" alt="Skärm 1" width="200" style="margin:5px;">
   </a>
 </p>
+
+<h4>Fakturering</h4>
+
+<p align="center">
+  <a href="images/invoice_products.png" target="_blank">
+    <img src="images/invoice_products.png" alt="Skärm 1" width="200" style="margin:5px;">
+  </a>
+  <a href="images/invioce_ready.png" target="_blank">
+    <img src="images/invioce_ready.png" alt="Skärm 1" width="200" style="margin:5px;">
+  </a>
+  <a href="images/invoice_preview.png" target="_blank">
+    <img src="images/invoice_preview.png" alt="Skärm 1" width="200" style="margin:5px;">
+  </a>
+</p>
